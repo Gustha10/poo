@@ -13,9 +13,9 @@ x= 7
 y= 9
 
 R=(x,y)
-print("Resultado:", R )
+print("Resultado:", R  )
 
-giytg
+
 
 
 
